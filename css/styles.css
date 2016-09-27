@@ -1,0 +1,82 @@
+body{
+	background-color:black;
+	height:4000px;
+}
+
+
+.container{
+	background-image:url("../skyline.jpg");
+	background-size:cover;
+}
+
+.page-title, h1{
+	color:white;
+	text-align:center;
+}
+
+.game-box, .user-input-foundation{
+	position:relative;
+	margin:0 auto;}
+.game-box{
+	background-color:rgba(37, 37, 37, 1);
+	top:50px;
+	height:500px;
+	max-width:900px;}
+.user-input-foundation{
+	height:50px;
+	top:90px;
+	background-color:beige;
+	width:500px;
+}
+
+.game-text{
+	padding-top:50px;
+}
+.text-input{
+	color:black;
+	font-size:28px;
+	height:100%;
+	width:100%;
+}
+
+
+.moto-racr{
+	position:relative;
+	height:130px;
+	width:225px;
+}
+.raceline{
+	height:2px;
+	width:100%;
+	border-top: 2px dashed magenta;
+}
+
+
+
+.random-paragraph{
+	text-align:center;
+	padding-right:10px;
+	padding-left:10px;
+	font-size:22px;
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
